@@ -10,6 +10,6 @@ Sign up for weekly emails on the challenge [here](https://irfanbaqui.us16.list-m
 ### Solutions:
 
 **Week 1:** Find kth smallest element in Binary Search Tree || *Languages:* Python
+        
 
-
-**Week 2:**
+**Week 2:** Reverse a sentence without reversing the words || *Languages:* Python
